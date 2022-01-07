@@ -28,5 +28,4 @@ Frame20 t is a f
 
 结合上述破译结果及通信序号，我们整理之后发现可以连缀成有语义的句子，但部分区域存在空缺。于是使用Google搜索等方法找到原句。填补空缺之后进行相关游程计算。
 经过以上破译工作，明文结果如下：
-
 "My secret is a famous saying of Albert Einstein. That is \"Logic will get you from A to B. Imagination will take you everywhere.\""
